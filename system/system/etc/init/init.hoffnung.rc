@@ -1,0 +1,6 @@
+#add by hukaixiang for OSWDLDEV-2982 20190129 begin
+on post-fs-data
+    mkdir /data/ot 0777 system system
+    setprop ro.os_system_track_dir "/data/ot/"
+# OS: add by hukaixiang for OSWDLDEV-2982 20190129 end
+

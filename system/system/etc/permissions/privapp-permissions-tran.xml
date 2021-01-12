@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Transsion Top Secret-->
+<!--
+This XML file declares which signature|privileged permissions should be granted to privileged
+applications that come with the platform
+-->
+<permissions>
+    <privapp-permissions package="net.bat.store">
+        <permission name="android.permission.INSTALL_PACKAGES"/>
+        <permission name="android.permission.PACKAGE_USAGE_STATS"/>
+    </privapp-permissions>
+    <privapp-permissions package="com.transsnet.store">
+        <permission name="android.permission.INSTALL_PACKAGES"/>
+    </privapp-permissions>
+    <privapp-permissions package="se.dirac.acs">
+        <permission name="android.permission.INTERACT_ACROSS_USERS"/>
+    </privapp-permissions>
+    <privapp-permissions package="com.kikaoem.qisiemoji.inputmethod.cy.go">
+        <permission name="android.permission.PACKAGE_USAGE_STATS"/>
+    </privapp-permissions>
+    <!--SDD:add BLSLEDPUB-5815 by ke.zhang 2020-03-26 start-->
+    <privapp-permissions package="com.transsion.carlcare">
+        <permission name="android.permission.READ_PRIVILEGED_PHONE_STATE"/>
+        <permission name="android.permission.GET_ACCOUNTS_PRIVILEGED"/>
+        <permission name="android.permission.STATUS_BAR"/>
+        <permission name="android.permission.READ_NETWORK_USAGE_HISTORY"/>
+        <permission name="android.permission.INSTALL_LOCATION_PROVIDER"/>
+        <permission name="android.permission.WRITE_SECURE_SETTINGS"/>
+        <permission name="android.permission.READ_LOGS"/>
+    </privapp-permissions>
+    <!--SDD:add BLSLEDPUB-5815 by ke.zhang 2020-03-26 end-->
+</permissions>

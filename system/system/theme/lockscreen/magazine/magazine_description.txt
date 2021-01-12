@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<magazine>
+    <path>/system/theme/lockscreen/magazine/img/wallpaper01.webp</path>
+    <wid>wallpaper01</wid>
+    <language>
+        <en>There is no chance, no destiny, no fate that can hinder the firm resolve of a determined soul. </en>
+        <am>እድል ወይም አጋጣሚ ቆራጥ ነብስን ከአላማ ሊበግር አይችልም</am>
+        <ar>لا شيء بإمكانه التصدي أمام العزيمة و المثابرة.</ar>
+        <bn>কোন সুযোগ, কোন নিয়তি, কোন ভাগ্য যে একটি নির্ধারিত আত্মার দৃঢ় সংকল্পকে বাধা দিতে পারে না.</bn>
+        <es>No hay posibilidad, ni destino, ningún destino que pueda dificultar la resolución firme de un alma decidida.</es>
+        <fa>هیچ شانس و یا سرنوشتی نمی تواند یگ روح مصمم را متوقف کند</fa>
+        <fr>Il n'y a aucune chance, aucun destin, aucun sort qui peuvent nuire à la ferme résolution d'une âme déterminée.</fr>
+        <gu>્યાં કોઈ તક કોઈ નિયતિ કોઈ ભાવિ નથી કે એક નક્કી આત્માની પેઢી નિશ્ચય અવરોધી શકે છે.</gu>
+        <hi>कोई संयोग, कोई भाग्य, कोई नियति किसी पक्के इरादे वाले इंसान के मजबूत इरादे रोक नहीं सकती|</hi>
+        <in>Ada tidak ada kesempatan, tidak ada takdir, nasib tidak ada yang dapat menghalangi perusahaan menyelesaikan jiwa yang ditentukan.</in>
+        <iw>אין שום סיכוי,לא גורל, לא מזל, שיכול לעכב החלטה נחושה של נשמה החלטית.</iw>
+        <km>គ្មានឪកាសគ្មានវាសនាគ្មានវាសនាដែលអាចរារាំងការតាំងចិត្តរបស់ក្រុមព្រលឹងដែលបានកំណត់។</km>
+        <kn>ನಿಶ್ಚಿತ ಆತ್ಮದ ಸಮಸ್ಯೆಯನ್ನು ಪರಿಹರಿಸಲು ಯಾವುದೇ ಅವಕಾಶ, ಧ್ಯೆಯ, ಅದ್ರುಷ್ಟ ಅಡ್ಡಿಯಾಗುವುದಿಲ್ಲ.</kn>
+        <lo>ບໍ່ມີໂອກາດ, ບໍ່ມີໂຊກຊາຕາ, ບໍ່ມີຊາຕາກຳທີ່ສາມາດຂັດຂວາງການຕັດສິນໃຈທີ່ເເນ່ວເເນຂອງຈິດວິນຍານທີ່ມຸ້ງໝັ້ນ.</lo>
+        <om>Onnee kutatee, wantii gababaati hambisuu hin jiratu</om>
+        <mr>कुठलीही संधी, नशीब, भवितव्य निश्चयी आत्म्याचा खंबीर निराकरण अडवू शकत नाही</mr>
+        <ms>Tukar kertas dinding</ms>
+        <my>စိတ္ဆႏၵျပင္းျပသည့္ ဝိဥာဥ္တစ္ခုအား တားဆီးႏိုင္သည့္ အရာမရွိပါ။</my>
+        <ne>यहाँ कुनै पनि स्थितिमा बाधा पुग्न नसक्ने कुरामा दृढ संकल्प राख्छौँ।</ne>
+        <pa>ਕੋਈ ਵੀ ਮੌਕਾ ਨਹੀ ਹੈ, ਕੋਈ ਕਿਸਮਤ ਨਹੀ ਹੈ, ਜੋ ਕਿ ਇੱਕ ਰੂਹ ਦੀ ਫਰਮ ਇਰਾਦਾ ਰੋਕ ਸਕਦਾ ਹੈ.</pa>
+        <pt>Não há nenhuma chance, nenhum destino, nenhuma barreira que pode dificultar a firme resolução de uma determinada alma.</pt>
+        <pt-BR>Não há nenhuma chance e nenhum destino que possa impedir a determinação firme de uma alma determinada.</pt-BR>
+        <ru>Не существует случая, предопределения или судьбы, которые могли бы стать препятствием для твердой решимости непреклонного духа.</ru>
+        <sw>Hakuna nafasi, hakuna hatima, hakuna hudra inayoweza kuzuia azma ya moyo uliokata shauri.</sw>
+        <ta>ஒரு உறுதியான ஆன்மாவின் தீர்க்கமான உறுதிப்பாட்டை எந்த ஒரு வாய்ப்பும், எந்த ஒரு லட்சியமும்,எந்த ஒரு விதியும் பாதிக்க முடியாது.</ta>
+        <te>అవకాశం, ఏ విధి, ఒక నిర్ణయించబడుతుంది ఆత్మ యొక్క సంస్థ పరిష్కారం అడ్డుపెట్టు ఏ గతి ఉంది.</te>
+        <ti>ሓደ ግዜ ናይ ዝተፈለጠ ነብሲ ፊርም ምፍታሕ ዘዕንቅፍ፣ዕድል፣ዕጣ ፈንታ፣ ኣጋጣሚ የለን</ti>
+        <tl>Walang pagkakataon, walang kapalaran, walang kapalaran na maaaring hadlangan ang masigasig na malutas ng isang determinadong kaluluwa.</tl>
+        <ur>کوئی امکان، کوئی منزل، کوئی مقدرنہیں ہے جوعزم روح کے پختہ عزم میں رکاوٹ بن سکے۔</ur>
+        <vi>Một trái tim mạnh mẽ sẽ không bị kìm hãm bởi số phận.</vi>
+        <zh>一颗坚定的心不会被任何的命运所阻挠。</zh>
+        <zh-TW>堅定的心不會因為任何機會、命運、宿命而遭受阻撓。</zh-TW>
+        <uk>Упевненій людині ніщо не завадить на шляху до цілі: ні випадок, ні доля, ні призначення.</uk>
+        <kk>Табанды жанның берік шешіміне тағдыр да, жағдай да кедергі келтіре алмайды.</kk>
+        <si>අධිෂ්ඨානශීලී අයකුගේ ස්ථිර අධිෂ්ඨානයට බාධා කළ හැකි අවස්ථාවක්, දෛවයක් හෝ කර්මයක් නැත.</si>
+        <tr>Belli bir ruhun kesin çözümünü engelleyebilecek hiçbir şans, kader, alın yazısı yok.</tr>
+        <ku>هیچ چانس، قەدەر، چارەنووسێک ناتوانێت بڕیاڕی ڕوحێکی بەهێز ڕابگرێت. </ku>
+		<ckb>هیچ چانس، قەدەر، چارەنووسێک ناتوانێت بڕیاڕی ڕوحێکی بەهێز ڕابگرێت. </ckb>
+		<ha>Babu dama, babu wurin zuwa, babu wata ƙaddara da za ta iya hana wani yanke hukunci na jajircewar wani ruhi da ya shirya. </ha>
+    </language>
+</magazine>
+<magazine>
+<path>/system/theme/lockscreen/magazine/img/wallpaper02.webp</path>
+<wid>wallpaper02</wid>
+<language>
+    <en>People cry, not because they're weak. It's because they've been strong for too long.</en>
+    <am>ሰዎች ያለቅሳሉ፣ ግን ደካማ ስለሆኑ አይደለም ለረጅም ጊዜ ጠንካራ ስለነበሩ ነው</am>
+    <ar>لا يبكي الناس بسبب ضعفهم، ولكن لكونهم أقوياء لفترة طويلة</ar>
+    <bn>লোকে কান্নাকাটি করবে না, কারণ তারা দূর্বল. কারণ তারা খুব দীর্ঘ জন্য শক্তিশালী চলেছি এটা.</bn>
+    <es>La gente llora, no porque sea débil. Es porque ha sido fuerte por mucho tiempo.</es>
+    <fa>انسان ها گریه می کنند نه به این دلیل که ضعیف هستند، به این دلیل که به مدت طولانی قوی بوده اند</fa>
+    <fr>Les gens pleurent, non pas parce qu'ils sont faibles. Mais parce qu'ils ont été forts trop longtemps.</fr>
+    <gu>લૉકો રડે, ઍ કારણ નથી કે તેઓ નબડા છે. કારણ કે તેઓ ખૂબ લાંબા સમય માટે મજબૂત કરવામાં આવી છે તે છે.</gu>
+    <hi>लोग इसलिए नहीं रोते कि वे कमजोर हैं, बल्कि इसलिए रोते हैं क्योंकि वे बहुत वक्त से मजबूत बने हुए थे|</hi>
+    <in>Orang-orang menangis, bukan karena mereka lemah. Hal ini karena mereka sudah kuat terlalu lama.</in>
+    <iw>אנשים בוכים ,לא בגלל שהם חלשים. זה בגלל שהם היו חזקים יותר מדי זמן.</iw>
+    <km>មុនុស្សយំមិនមែនដោយសារតែពួកគេខ្សោយនោះទេ។ វាដោយសារតែពួកគេបានរឹងមាំយូរ។</km>
+    <kn>ಹೆಚ್ಚು ಸಮಯ ಧ್ರುಡವಾಗಿ ಇದ್ದ ಜನರು ಅಳುತ್ತಾರೆ ಆದರೆ ಅವರು ದುರ್ಬಲರಲ್ಲ. </kn>
+    <lo>ຄົນຮ້ອງໄຫ້, ບໍ່ແມ່ນຍ້ອນພວກເຂົາອ່ອນແອ. ແຕ່ມັນແມ່ນຍ້ອນວ່າພວກເຂົາໄດ້ເຂັ້ມແຂງມາດົນແລ້ວ.</lo>
+    <om>Ummatni ni bo'aa. Dadhaboo waan ta'aaniif mitii. Yeroo dheraaf cimoo ta'uu wan barbadaniifi.</om>
+    <mr>लोक रडतात, कारण ते कमकुवत आहेत त्यामुळे नाही कारण ते दीर्घ काळ बलवान होते.</mr>
+    <ms>Sesorang menangis, bukan kerana mereka lemah.Tetapi kerana mereka telah kuat terlalu lama.</ms>
+    <my>မ်က္ရည္ဆိုတာ စိတ္အားနည္းလို႔ က်တာမဟုတ္ဖူး၊ အားတင္းထားတာၾကာလြန္းလို႔ က်တာပါ။</my>
+    <ne>मानिसहरू रुन्छन् किनभने उनीहरु कमजोर हुन्छन्। उनीहरू धेरै लामो समयको लागि बलियो भएको कारण यस्तो हुन्छ।</ne>
+    <pa>ਲੋਕ ਰੋਣਦੇ ਹੈ, ਕਿਉਕਿ ਉਹ ਕਮਜ਼ੋਰ ਹਨ. ਕਿਉਕਿ ਉਹ ਬਹੁਤ ਲੰਮੇ ਲਈ ਮਜ਼ਬੂਤ ਸਨ.</pa>
+    <pt>As pessoas choram, não porque elas são fracas. É porque elas têm sido forte por muito tempo.</pt>
+    <pt-BR>As pessoas choram, não porque são fracas. E sim porque  têm sido fortes por muito tempo</pt-BR>
+    <ru>Люди плачут не потому, что они слабые. Это потому, что они были  сильными слишком долго.</ru>
+    <sw>Watu hulia, sio kwasababu ni wanyonge. Ni kwasababu wamekuwa na nguvu kwa muda mrefu.</sw>
+    <ta>மக்கள் அவர்கள் பலவீனமாக இருப்பதால் மட்டும், அழவில்லை. ஏனெனில் அவர்கள் நீண்ட நாட்கள் வலுவாக உள்ளனர்.</ta>
+    <te>ప్రజలు ఏడ్చు వారు బలహీన ఉన్నారు ఎందుకంటే. వారు చాలా కాలం బలమైన ఉన్నాను ఎందుకంటే ఇది.</te>
+    <ti>ሰባት ዝበኽዩ ደካማታት ስለዝኾኑ ኣይኮኑንንነዊሕ እዋን ጠንካራ ስለዝነበሩ እዩ</ti>
+    <tl>Ang mga tao ay umiiyak hindi dahil sa sila ay mahina, kundi dahil sa napakatal na nilang nagpapakatibay.</tl>
+    <ur>لوگ روتے ہیں،اس لئے نہیں کہ وہ کمزورہیں۔ اس کی وجہ یہ ہے کہ وہ بہت زیادہ عرصے سے مضبوط ہیں۔</ur>
+    <vi>Khóc không có nghĩa là bạn đang yếu mà bởi vì bạn đã giữ kiên cường rất lâu.</vi>
+    <zh>哭泣，不代表脆弱，只因坚强了太久。</zh>
+    <zh-TW>人們之所以哭泣，不是因為脆弱，而是因為堅強太久了。</zh-TW>
+    <uk>Люди плачуть не через слабкість, а через те, що довго стримувались і не показували її.</uk>
+    <kk>Адамдар әлсіз болғандықтан жыламайды. Адамдар ұзақ уақыт бойы күшті болғандықтан жылайды.</kk>
+    <si>මිනිස්සුහඬති. ඒ ඔවුන් දුර්වල නිසා නොවේ. ඒ ඔවුන් දීර්ඝ කාලයක් ශක්තිමත්ව සිට ඇති හෙයිනි.</si>
+    <tr>İnsanlar ağlıyor, zayıf oldukları için değil, çok uzun süre güçlü oldukları için.</tr>
+    <ku>خەڵک دەگرین، بەڵام لەبەر ئەوە نا کە لاوازن. هۆکاری گریانەکەیان ئەوەیە کە ئەوان بۆ ماوەیەکی زۆر درێژ بەهێز بوون.</ku>
+	<ckb>خەڵک دەگرین، بەڵام لەبەر ئەوە نا کە لاوازن. هۆکاری گریانەکەیان ئەوەیە کە ئەوان بۆ ماوەیەکی زۆر درێژ بەهێز بوون.</ckb>
+	<ha>Mutane sukan yi kuka, amma ba saboda suna da rauni ba. Saboda sun kasance da ƙarfi ne na lokaci mai tsawo.</ha>
+</language>
+</magazine>
+<magazine>
+<path>/system/theme/lockscreen/magazine/img/wallpaper05.webp</path>
+<wid>wallpaper05</wid>
+<language>
+    <en>If you are not brave enough, no one will back you up.</en>
+    <am>ጠንካራ ካልሆኑ፣ ማንም አይጠባበቆትም</am>
+    <ar>إذا لم تكن شجاعا بما يكفي, لن تجد احد بجوارك ليساندك.</ar>
+    <bn>আপনি যথেষ্ট সাহসী না হয় তাহলে, কোন এক আপনি ব্যাক আপ করতে হবে.</bn>
+    <es>Si no eres lo suficientemente valiente, nadie te cubrirá la espalda</es>
+    <fa>اگر به اندازه کافی شجاع نباشی کسی از شما حمایت نمی کند.</fa>
+    <fr>Si vous n'êtes pas assez courageux, personne ne le sera à votre place.</fr>
+    <gu>જો તમારી પાસે પૂરતી બહાદુરી ન હોય તો, કોઈ પણ તમે પાછડ કરશે નહી.</gu>
+    <hi>खुद की मदद करने की हिम्मत ना होने पर, कोई भी आपकी मदद नहीं करेगा|</hi>
+    <in>Jika Anda tidak cukup berani, tidak ada yang akan membuat Anda cadangan.</in>
+    <iw>אם אתה לא אמיץ לב מספיק, אף אחד לא יגבה אותך.</iw>
+    <km>ប្រសិនបើអ្នកមិនក្លាហានគ្រប់យ៉ាង  គ្មាននរណាម្នាក់នឹងគាំទ្រអ្នកទេ។</km>
+    <kn>ನಿಮ್ಮಲ್ಲಿ ದೃಡತೆಯು ಇದ್ದರೆ ಯಾರು ನಿಮ್ಮನ್ನು ಹಿಂದಟ್ಟುವಂತಿಲ್ಲ.</kn>
+    <lo>ຖ້າເຈົ້າກ້າຫານບໍ່ພຽງພໍ, ບໍ່ມີໃຜທີ່ຈະຊ່ວຍເຈົ້າໄດ້.</lo>
+    <om>Yoo gootaa ta'uu battee, namnii si gargarru hin jiru.</om>
+    <mr>आपण पुरेसे शूर नाहीत तर, कोणीही आपल्याला समर्थन करणार नाही.</mr>
+    <ms>Jika anda tidak cukup berani, tiada siapa yang akan membantu.</ms>
+    <my>ကိုယ္တိုင္က မစြမ္းေဆာင္ႏိုင္ဖူးဆိုရင္ ဘယ္သူကမွ သင့္ကို ကူညီေပးလို႔ရမွာမဟုတ္ဖူး။</my>
+    <ne>तपाईँ साहसी हुनुहुन्न भने, कसैले तपाईँलाई समर्थन गर्दैन।</ne>
+    <pa>ਤੁਹਾਨੂੰ ਕਾਫ਼ੀ ਬਹਾਦਰ ਨਹੀ ਹਨ, ਜੇ, ਕੋਈ ਵੀ ਇੱਕ ਤੁਹਾਨੂੰ ਬੈਕਅੱਪ ਜਾਵੇਗਾ.</pa>
+    <pt>Se não for corajoso o suficiente, ninguém vai apoiá-lo.</pt>
+    <pt-BR>Se você não for corajoso o suficiente, ninguém vai apoiá-lo.</pt-BR>
+    <ru>Если вы недостаточно храбры, вас никто не поддержит.</ru>
+    <sw>Kama wewe sio hodari, hakuna atakayekuunga mkono.</sw>
+    <ta>நீங்கள் போதுமான தைரியம் உள்ளவராக இல்லை என்றால்,எவரும் உங்களுக்கு உதவ மாட்டார்கள்.</ta>
+    <te>మీరు తగినంత ధైర్య లేకపోతే, ఎవరూ మీరు బ్యాకప్ చేస్తుంది.</te>
+    <ti>እንድሕር እኹል ጀግና ዘይኾንኻ፣ማንም ኣይድግፈካን</ti>
+    <tl>Kung ikaw ay hindi matapang, walang sinuman ang susunod sayo.</tl>
+    <ur>اگرآپ بہت بہادر نہیں ہیں، تو کوئی بھی آپ کا  سہارا  نہیں بنے گا۔</ur>
+    <vi>Bạn không dũng cảm, không ai có thể làm điều đó thay bạn</vi>
+    <zh>你不勇敢，没人替你坚强。</zh>
+    <zh-TW>自己若不夠勇敢，便沒有人會為您撐腰。</zh-TW>
+    <uk>Якщо ви недостатньо відважні, вам ніхто не допоможе.</uk>
+    <kk>Батыл болмасаңыз, сізді ешкім қолдамайды.</kk>
+    <si>ඔබ ප්‍රමාණවත් තරම් ශක්තිමත් නොවුනොත් කිසිවකු ඔබව දිරිමත් නොකරනු ඇත.</si>
+    <tr>Eğer yeterince cesur değilseniz kimse sizi destekleyemez.</tr>
+    <ku>ئەگەر بە پێی پێویست بوێر نی، هیچ کەس تۆ هەڵناگرێت.</ku>
+	<ckb>ئەگەر بە پێی پێویست بوێر نی، هیچ کەس تۆ هەڵناگرێت.</ckb>
+	<ha>Idan ka namijin ƙwarai ne ba, ba wanda zai ba ka goyon baya.</ha>
+</language>
+</magazine>
+<magazine>
+    <path>/system/theme/lockscreen/magazine/img/wallpaper08.webp</path>
+    <wid>wallpaper08</wid>
+    <language>
+    <en>It's not who you are underneath, it's what you do that defines you. </en>
+    <am>ማንነትህ የሚወሰነዉ ካንተ በታች ባለዉ ሰዉ ሳይሆን በሰራኸዉ ስራ ነዉ</am>
+    <ar>تتجلي هويتك الحقيقية في أفعالك.</ar>
+    <bn>তিনিই তোমাদেরকে নীচে হয় না, এটা আপনি যে আপনি সংজ্ঞায়িত করি.</bn>
+    <es>No es lo que eres por dentro, es loq ue haces lo que te define.</es>
+    <fa>کاری که شما انجام میدهبد شخصیت شما را مشخص می کندو</fa>
+    <fr>Il ne s'agit pas de qui vous êtes, c'est ce que vous faites qui vous définit.</fr>
+    <gu>તે જે તમે નીચે છે નથી, તે તમે વ્યાખ્યાયિત શું છે.</gu>
+    <hi>आप क्या हैं उससे फर्क नहीं पड़ता, लेकिन आप क्या करते हैं उससे फर्क पड़ता है|</hi>
+    <in>Itu bukan yang Anda berada di bawah, itu adalah apa yang Anda lakukan yang mendefinisikan Anda.</in>
+    <iw>זה לא מה שאתה מתחת, מה שאתה עושה זה מה שמגדיר אותך.</iw>
+    <km>វាមិនមែនជាអ្នកដែលអ្នកស្ថិតនៅក្រោមនោះទេវាគឺជាអ្វីដែលអ្នកធ្វើដែលកំណត់អ្នក។</km>
+    <kn>ನಿಮ್ಮನ್ನು ಕೀಳೆಂದು ಭಾವಿಸದೆ, ನೀವು ಮಾಡಿದ ಕೆಲಸಗಳಿಂದ ನಿಮ್ಮನ್ನು ವರ್ಣಿಸಬಹುದು. </kn>
+    <lo>ມັນບໍ່ແມ່ນເຈົ້າຜູ້ທີ່ຈະຢູ່ໃນພາຍໃຕ້, ມັນແມ່ນສິ່ງທີ່ເຈົ້າເຮັດນັ້ນກໍານົດເຈົ້າ.</lo>
+    <om>Eenyummaa kee issa jala osso hin tane waanta atti hojjatutu si ibsa.</om>
+    <mr>आपण कोणाखाली आहेत ते नाही, आपण काय करतो ते आपली व्याख्या निश्चित करते.</mr>
+    <ms>Jangan melihat pada siapa yang dibwah anda, tetapi lihat apa yang anda lakukan itu lebih menunjukkan siapa anda</ms>
+    <my>သင့္စိတ္နဲ႔သင့္ကိုယ္မဟုတ္ဖူးဆိုရင္ ဘာအဓိပၸာယ္ရွိေတာ့မွာလဲ။</my>
+    <ne>तपाईंलाई परिभाषित तपाइँको कार्यले गर्छ, तपाईंको मन मारफत होइन।</ne>
+    <pa>ਇਹ ਜੋ ਤੁਹਾਨੂੰ ਥੱਲੇ ਹਨ, ਨਾ ਹੈ, ਇਸ ਨੂੰ ਤੁਹਾਨੂੰ ਤੁਹਾਡੇ ਪ੍ਰਭਾਸ਼ਿਤ ਕੀ ਕਰਨਾ ਹੈ.</pa>
+    <pt>Não é quem você é por baixo, é o que você faz que te define.</pt>
+    <pt-BR>Não é quem você é por dentro,  é o que você faz que o define.</pt-BR>
+    <ru>То что ты делаешь определяет тебя, а не твоя сущность.</ru>
+    <sw>Sio ulivyo kwenye nafsi yako, ni unayofanya ndio inayokufasilisha</sw>
+    <ta>நீங்கள் செய்யும் காரியங்கள் உங்களை யார் என்று தீர்மானிக்கிறது. ஆகவே நீங்கள் கீழானவர் என்று அர்த்தம் அல்ல. </ta>
+    <te>ఇది మీరు మీరు నిర్వచిస్తుంది ఏమి ఉంది, మీరు క్రింద ఉన్న కాదు.</te>
+    <ti>መን ምኻንካ ኣየትሕተካን፣ እንታይ ከምዝሰራሕኻ እዩ  ዝገልፀካ፡፡</ti>
+    <tl>Ito ay hindi kung sino ka, ito ay kung ano ang gagawin mo na tumutukoy sa iyo.</tl>
+    <ur>یہ جو آپ کے نیچے نہیں ہے، یہ آپ آپ واضح کرتا ہے کہ کیا ہے ۔</ur>
+    <vi>Không quan trọng bạn là ai, mà quan trọng bạn đã làm được gì.</vi>
+    <zh>你真正是谁并不重要，重要的是你的所做所为。</zh>
+    <zh-TW>您到底是誰並不重要，重要的是您的所做所為。</zh-TW>
+    <uk>Вас визначає не ваша суть, а ваші вчинки.</uk>
+    <kk>Кім екеніңізді түріміз емес, істеген істеріміз анықтайды.</kk>
+    <si>ඔබ පහත් වී තිබෙනවා නොවේ, ඔබ යමකු වන්නේ ඔබ කරන දෙයිනි.</si>
+    <tr>Altındaki kimse değil, seni tanımlayan şey yaptığındır.</tr>
+    <ckb>ئەوە شتێک نییە کە تۆ لە ژێرەوەی بی، بەڵکوو ئەمە ئەو شتەیە کە تۆ پێناسە دەکات. </ckb>
+    </language>
+</magazine>
