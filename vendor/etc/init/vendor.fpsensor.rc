@@ -1,0 +1,10 @@
+on fs
+    # add for fpsensor Fingerprint
+    chmod 664 /dev/fpsensor
+    chown system root /dev/fpsensor
+	
+on post-fs-data
+    mkdir /data/fpsensor
+    chown system system /data/fpsensor
+    chmod 664 /data/fpsensor/socket
+    chown system system /data/fpsensor/socket

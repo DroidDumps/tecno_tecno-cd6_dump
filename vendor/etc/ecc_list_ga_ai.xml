@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EccTable>
+    <!--
+        Gabon
+        The attribute definition for tag EccEntry:
+        - Ecc: the emergnecy number
+        - Category: the service category
+        - Condition: there are following values:
+            - 0: ecc only when no sim
+            - 1: ecc always
+            - 2: MMI will show ecc but send to nw as normal call
+    -->
+    <EccEntry Ecc="112" Category="0" Condition="2" Name="Emergency Number" />
+    <EccEntry Ecc="177" Category="0" Condition="1" Name="Police" />
+    <EccEntry Ecc="18" Category="0" Condition="1" Name="Gabon Fire" />
+    <EccEntry Ecc="1300" Category="0" Condition="1" Name="Ambulance" />
+</EccTable>

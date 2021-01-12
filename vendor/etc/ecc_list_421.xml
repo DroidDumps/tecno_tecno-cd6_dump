@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EccTable>
+    <!--
+	    yemen
+        The attribute definition for tag EccEntry:
+        - Ecc: the emergnecy number
+        - Category: the service category
+        - Condition: there are following values:
+            - 0: ecc only when no sim
+            - 1: ecc always
+            - 2: MMI will show ecc but send to nw as normal call
+    -->
+    <EccEntry Ecc="122" Category="0" Condition="2" />
+    <EccEntry Ecc="199" Category="0" Condition="2" />
+    <EccEntry Ecc="179" Category="0" Condition="2"  />
+    <EccEntry Ecc="195" Category="0" Condition="2" />
+	<EccEntry Ecc="194" Category="0" Condition="2"  />
+</EccTable>

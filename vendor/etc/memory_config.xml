@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<config version="1-0">
+    <set parameter="ddr" version="8">
+        <ddr size="1G"> <!-- index 0-->
+            <!--item path="/proc/sys/vm/swappiness" value="100"-->
+            <item path="/proc/sys/vm/extra_free_kbytes" value="4050"/>
+        </ddr>
+        <!-- modify lowmem adj by qianwen.guo start -->
+        <ddr size="2G"> <!-- index 1-->
+            <item path="/proc/sys/vm/swappiness" value="100"/>
+            <item path="/sys/module/lowmemorykiller/parameters/adj" value="0,100,200,300,900,906"/>
+            <item path="/sys/module/lowmemorykiller/parameters/minfree" value="18432,23040,27648,32256,55296,80640"/>
+        </ddr>
+        <ddr size="3G"> <!-- index 2-->
+            <item path="/sys/module/lowmemorykiller/parameters/adj" value="0,100,200,300,900,906"/>
+            <item path="/sys/module/lowmemorykiller/parameters/minfree" value="18432,23040,27648,32256,76800,102400"/>
+        </ddr>
+        <ddr size="4G"> <!-- index 3-->
+            <item path="/sys/module/lowmemorykiller/parameters/adj" value="0,100,200,300,900,906"/>
+            <item path="/sys/module/lowmemorykiller/parameters/minfree" value="18432,23040,27648,32256,76800,102400"/>
+        </ddr>
+        <!-- modify lowmem adj by qianwen.guo end -->
+
+    </set>
+    <set parameter="display" version="8" >
+    </set>
+</config>

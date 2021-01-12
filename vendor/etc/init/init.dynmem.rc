@@ -1,0 +1,12 @@
+#[PPD] Add for dynamic config memory parameters by yafang.mao at 20181011 start
+
+on property:sys.boot_completed=1
+    start dynmemory 
+#PPD: modify main class for encrypt by peng.zhang5 at 20191009 start
+service dynmemory vendor/bin/dynmemory
+    class main
+    user root
+    group root system
+    disabled
+#PPD: modify main class for encrypt by peng.zhang5 at 20191009 end
+#[PPD] Add for dynamic config memory parameters by yafang.mao at 20181011 end

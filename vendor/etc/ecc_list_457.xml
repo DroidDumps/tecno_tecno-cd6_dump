@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EccTable>
+    <!--
+	Laos
+        The attribute definition for tag EccEntry:
+        - Ecc: the emergnecy number
+        - Category: the service category (From 3GPP TS24.008)
+            - Bit 1 (1): Police
+            - Bit 2 (2): Ambulance
+            - Bit 3 (4): Fire Brigade
+            - Bit 4 (8): Marine Guard
+            - Bit 5 (16): Mountain Rescue
+            - Bit 6 (32): Manually initiated eCall
+            - Bit 7 (64): Automatically initiated eCall
+            - Bit 8 (128): is spare and set to "0"
+        - Condition: there are following values:
+            - 0: ecc only when no sim
+            - 1: ecc always
+            - 2: MMI will show ecc but send to nw as normal call
+    -->
+    <EccEntry Ecc="112" Category="0" Condition="1" />
+    <EccEntry Ecc="911" Category="0" Condition="1" />
+    <EccEntry Ecc="1190" Category="0" Condition="2" />
+    <EccEntry Ecc="1191" Category="0" Condition="2" />
+    <EccEntry Ecc="1195" Category="0" Condition="2" />
+    <EccEntry Ecc="1199" Category="0" Condition="2" />
+</EccTable>

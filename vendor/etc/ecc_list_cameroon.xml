@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EccTable>
+    <!--
+        Cameroon
+        The attribute definition for tag EccEntry:
+        - Ecc: the emergnecy number
+        - Category: the service category
+        - Condition: there are following values:
+            - 0: ecc only when no sim
+            - 1: ecc always
+            - 2: MMI will show ecc but send to nw as normal call
+    -->
+    <!-- CMT: modify chenlei LAQGHSJS-1047 20180327 start -->
+    <EccEntry Ecc="118" Category="0" Condition="1" Name="Gabon Fire" />
+    <!-- CMT: modify chenlei LAQGHSJS-1047 20180327 end -->
+    <EccEntry Ecc="117" Category="0" Condition="1" Name="Police" />
+    <EccEntry Ecc="119" Category="0" Condition="1" Name="Ambulance" />
+    <EccEntry Ecc="113" Category="0" Condition="1" Name="Gendarmerie" />
+    <EccEntry Ecc="8080" Category="0" Condition="1" Name="Emergency Number" />
+</EccTable>

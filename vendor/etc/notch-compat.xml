@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<!--Transsion Top Secret-->
+<compat-packages>
+    <pkg name="com.google.android.youtube" compatible-notch="1" />
+    <pkg name="com.instagram.android" compatible-notch="1" />
+    <pkg name="com.google.android.apps.docs" compatible-notch="1" />
+    <pkg name="com.facebook.katana" compatible-notch="1" />
+    <pkg name="com.facebook.lite" compatible-notch="1" />
+    <pkg name="com.facebook.orca" compatible-notch="1" />
+    <pkg name="com.whatsapp" compatible-notch="1" />
+    <pkg name="com.google.android.apps.photos" compatible-notch="1" />
+    <pkg name="com.excelliance.dualaid.vend.cy.b64" compatible-notch="1" />
+    <pkg name="com.excelliance.dualaid.vend.cy" compatible-notch="1" />
+</compat-packages>

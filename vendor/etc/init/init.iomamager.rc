@@ -1,0 +1,20 @@
+on init
+    chown root system /proc/sys/vm/dirty_background_ratio
+    chmod 0664 /proc/sys/vm/dirty_background_ratio
+    chown root system /proc/sys/vm/dirty_ratio
+    chmod 0664 /proc/sys/vm/dirty_ratio
+    chown root system /sys/kernel/debug/blocktag/mmc/blockio_pipe
+    chmod 0664 /sys/kernel/debug/blocktag/mmc/blockio_pipe
+    chown root system /sys/module/filemap/parameters/set_pid
+    chmod 0664 /sys/module/filemap/parameters/set_pid
+
+    mkdir /dev/cg2_bpf/pnpmgr_max
+
+on property:sys.boot_completed=1
+    start iomanager
+
+service iomanager /vendor/bin/iomanager
+    class core
+    user root
+    group root system
+    disabled

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Trancare version="1-0">
+    <!-- Monitor -->
+    <monitor name="ResourceMonitor" version="1-0" model_name="default">
+        <module name="runtime">
+            <!-- monitor_flag/exception use to control which info we should monitor and report exception,
+            0 => monitor nothing;
+            1 => monitor cpu info;
+            2 => monitor io info;
+            4 => monitor memory info;
+            8 => monitor thermal info;
+            15 => monitor all info;
+            -->
+            <!-- cpuRecord  is cpu data saving cycle, a cycle is 30 mins define in codebase -->
+            <!-- cover_time use to control the time we want get the info,
+                like we want to show the cpu usage during 2 seconds.cover_time default is cpu sampling frequency
+            -->
+            <!-- profile_second use to control the loop time of kernel driver  -->
+            <!-- Trancare_loop_count use to control the data which Trancare need upload when exception can't be handled  -->
+            <item key="monitor_flag" value="15"/>
+            <item key="exception_flag" value="0"/>
+            <item key="saveData" value="0"/>
+            <item key="uploadEMR" value="255"/>
+            <item key="profile_second" value="1"/>
+            <item key="cover_time" value="10"/>
+            <item key="memCover" value="6"/>
+            <item key="therCover" value="1"/>
+            <item key="freqCover" value="30"/>
+            <item key="statCount" value="2880"/>
+            <item key="report_pm" value="1"/>
+        </module>
+
+        <module name="cpu">
+            <item key="total_cpu" value="85"/>
+            <item key="top_cpu" value="20"/>
+            <item key="bg_cpu" value="25"/>
+            <item key="fg_cpu" value="50"/>
+            <item key="iow" value="10"/>
+        </module>
+
+        <module name="memory">
+            <item type="default" key="avail_mem" value="25"/>
+            <item type="default" key="avail_max" value="800"/>
+            <item type="default" key="top_mem" value="300"/>
+            <item type="app" key="com.android.gms" version="v1.0" value="50"/>
+            <item type="app" key="com.facebook.katana" version="v3.7.0" value="200"/>
+            <item type="app" key="com.android.systemui" version="v2.5.0" value="150"/>
+        </module>
+
+        <module name="thermal">
+            <item key="cpu" value="47"/>
+            <item key="pmic" value="35"/>
+            <item key="batt" value="27"/>
+            <item key="wifi" value="24"/>
+            <item key="ap" value="32"/>
+            <item key="md_pa" value="30"/>
+        </module>
+
+        <module name="processmanager">
+            <item key="cpu" value="75"/>
+            <item key="iow" value="10"/>
+            <item key="avail" value="450"/>
+            <item key="visiable" value="200"/>
+            <item key="perceptible" value="200"/>
+            <item key="servicea" value="200"/>
+            <item key="previous" value="200"/>
+            <item key="serviceb" value="200"/>
+            <item key="cache" value="200"/>
+            <!--
+            this module use to control the threshold which we need upload data to processmanager
+            cpu & iow unit is percent, the others are total memory value, unit is MB 
+            -->
+        </module>
+    </monitor>
+</Trancare>

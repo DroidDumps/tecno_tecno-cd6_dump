@@ -1,0 +1,6 @@
+
+service res_monitor /vendor/bin/res_monitor
+    class main 
+    user root
+    group system system
+    writepid /dev/cpuset/background/tasks

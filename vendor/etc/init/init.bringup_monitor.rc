@@ -1,0 +1,6 @@
+on post-fs
+    start bringup_monitor
+
+service bringup_monitor /vendor/bin/bringup_monitor
+    class core
+    user system
